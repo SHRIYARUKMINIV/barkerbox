@@ -37,6 +37,11 @@ body {
     text-align: center;
     margin-top: 0;
   }
+
+ .subheading {
+    color: #471869;
+    text-align: center;
+    margin-top: 0;
   
   /* Description Styles */
   .description {
