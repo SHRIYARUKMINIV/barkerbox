@@ -7,6 +7,21 @@ body {
     font-family: Arial, sans-serif;
   }
   
+  /* 
+    Challenge: Style the image
+      * Select the class "featured-img"
+      * Make the image small – about 100px wide
+      * Apply rounded corners 
+  */
+  
+  .featured-img {
+      width: 100px;
+      border-radius: 50%;
+      display: block;
+      margin: 10px auto 20px; /* Horizontally center the image */
+      border: 3px solid #471869;
+  }
+  
   .container {
     background-color: #ffffff; /* White background for form container */
     max-width: 500px;
