@@ -18,7 +18,7 @@ body {
       width: 100px;
       border-radius: 50%;
       display: block;
-      margin: 10px auto 20px; /* Horizontally center the image */
+      margin: 0 auto 10px; /* Horizontally center the image */
       border: 3px solid #471869;
   }
   
@@ -35,13 +35,13 @@ body {
   .heading {
     color: #471869; /* Heading color */
     text-align: center;
-    margin-top: 0;
+    margin: 0 auto 5px;
   }
 
  .subheading {
     color: #471869;
     text-align: center;
-    margin-top: 0;
+    margin: 0 auto;
  }
   
   /* Description Styles */
